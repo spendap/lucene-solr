@@ -26,7 +26,7 @@ result faceting and highlighting.
 
 ## Online Documentation
 
-This README file only contains basic setup instructions.  For more
+This README file contains basic setup instructions only.  For more
 comprehensive documentation, visit:
 
 - Lucene: <http://lucene.apache.org/core/documentation.html>
